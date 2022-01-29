@@ -1,0 +1,11 @@
+{
+"info_version": 2,
+"name": "Google launcher",
+"description":"Linking different personal websites to each other",
+"versia": "0.0.1",
+"browser_action": {
+    "default_icon":"Icon placeholder",
+    "default_popup": "index.html"
+},
+"permissions":["activeTab"]
+}
